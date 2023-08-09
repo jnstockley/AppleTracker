@@ -8,4 +8,4 @@
 5. Create UI
 
 # Credits
-Heavily inspired by [Mactarcker](https://mactracker.ca/), but wanted to make the updates quicker, not require a new app update to see the new data
+Heavily inspired by [Mactracker](https://mactracker.ca/), but wanted to make the updates quicker, not require a new app update to see the new data
