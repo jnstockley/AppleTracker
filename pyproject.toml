@@ -8,6 +8,7 @@ packages = [{include = "apple_tracker"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+playwright = "^1.36.0"
 
 
 [build-system]
